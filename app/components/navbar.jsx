@@ -10,8 +10,7 @@ function Navbar() {
             ALEXANDRE VASSARD
           </Link>
         </div>
-
-        <ul
+        {/*<ul
           className="mt-4 flex h-screen max-h-0 w-full flex-col items-start text-sm opacity-0 lg:mt-0 lg:h-auto lg:max-h-screen lg:w-auto lg:flex-row lg:space-x-1 lg:border-0 lg:opacity-100"
           id="navbar-default"
         >
@@ -45,7 +44,7 @@ function Navbar() {
               </div>
             </Link>
           </li>
-        </ul>
+        </ul> */}
       </div>
     </nav>
   );
