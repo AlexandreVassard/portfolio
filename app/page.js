@@ -8,7 +8,6 @@ export default async function Home() {
       <HeroSection />
       <AboutSection />
       <Skills />
-      {/*<Projects />*/}
     </div>
   );
 }
